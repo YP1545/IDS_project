@@ -1,0 +1,9 @@
+
+# Ignore local dataset files
+data/*.csv
+data/**/*.csv
+data/*.zip
+data/**/*.zip
+
+# Ignore local notebook backup
+notebooks_backup/
