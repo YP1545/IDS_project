@@ -7,3 +7,16 @@ data/**/*.zip
 
 # Ignore local notebook backup
 notebooks_backup/
+
+# macOS files
+.DS_Store
+
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore local dataset files
+data/*.csv
+data/**/*.csv
+data/*.zip
+data/**/*.zip
