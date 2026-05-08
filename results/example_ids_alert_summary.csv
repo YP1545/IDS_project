@@ -1,0 +1,6 @@
+Field,Value
+Model,Random Forest
+Prediction,Attack
+Attack probability,0.9986
+True label in dataset,Attack
+Analyst interpretation,The model flagged this flow as suspicious. The feature values below come from the most important Random Forest features and would be reviewed by an analyst before treating the alert as confirmed.

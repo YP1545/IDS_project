@@ -1,0 +1,6 @@
+Feature,Sample_Value
+dst_port,80.0
+fwd_iat_mean,366272.215686274
+fwd_pkts_s,2.7479368882
+flow_iat_max,1865436.0
+fwd_iat_max,1865436.0
